@@ -1,4 +1,4 @@
-integer = 5
+
 
 def countdown(integer)
   while integer > 0
