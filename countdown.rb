@@ -1,6 +1,6 @@
 integer = 5
 
-def countdown(integer)
+def countdown
   while integer > 0
     puts "#{integer} SECOND(S)!"
     integer -= 1
